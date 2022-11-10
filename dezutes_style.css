@@ -1,0 +1,41 @@
+.first-div {
+    padding: 5pt;
+    background-color: gray;
+    color: white;
+}
+
+.second-div {
+    padding: 5pt;
+    background-color: blue;
+    color: white;
+}
+
+.third-div {
+    padding: 5pt;
+    background-color: red;
+    color: white;
+}
+
+.fourth-div {
+    padding: 5pt;
+    background-color: white;
+    color: black;
+}
+
+.fifth-div {
+    padding: 5pt;
+    background-color: yellow;
+    color: black;
+}
+
+.sixth-div {
+    padding: 5pt;
+    background-color: blue;
+    color: black;
+}
+
+.seventh-div {
+    padding: 5pt;
+    background-color: yellow;
+    color: black;
+}
